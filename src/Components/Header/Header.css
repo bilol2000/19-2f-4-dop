@@ -1,0 +1,12 @@
+.header {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #252525;
+}
+.header a{
+  margin-left: 300px;
+  color: red;
+  text-decoration: none;
+  width: 50px;
+  height: 30px;
+}

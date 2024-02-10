@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: whitesmoke;
+}
+h1{
+  text-align: center;
+}
+
+.text{
+  margin-top: 150px;
+}
